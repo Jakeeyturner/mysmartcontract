@@ -8,8 +8,8 @@
         "transientData": {}
     },
     {
-        "transactionName": "createMyAsset",
-        "transactionLabel": "A test createMyAsset transaction",
+        "transactionName": "createCarAsset",
+        "transactionLabel": "A test createCarAsset transaction",
         "arguments": [
             "001",
             "some value"
@@ -17,16 +17,16 @@
         "transientData": {}
     },
     {
-        "transactionName": "readMyAsset",
-        "transactionLabel": "A test readMyAsset transaction",
+        "transactionName": "readCarAsset",
+        "transactionLabel": "A test readCarAsset transaction",
         "arguments": [
             "001"
         ],
         "transientData": {}
     },
     {
-        "transactionName": "updateMyAsset",
-        "transactionLabel": "A test updateMyAsset transaction",
+        "transactionName": "updateCarAsset",
+        "transactionLabel": "A test updateCarAsset transaction",
         "arguments": [
             "001",
             "some other value"
@@ -34,8 +34,8 @@
         "transientData": {}
     },
     {
-        "transactionName": "deleteMyAsset",
-        "transactionLabel": "A test deleteMyAsset transaction",
+        "transactionName": "deleteCarAsset",
+        "transactionLabel": "A test deleteCarAsset transaction",
         "arguments": [
             "001"
         ],
