@@ -17,6 +17,15 @@
         "transientData": {}
     },
     {
+        "transactionName": "createCarAsset",
+        "transactionLabel": "Added transaction data for James Bond's car",
+        "arguments": [
+            "007",
+            "Aston Martin"
+        ],
+        "transientData": {}
+    }
+    {
         "transactionName": "readCarAsset",
         "transactionLabel": "A test readCarAsset transaction",
         "arguments": [
